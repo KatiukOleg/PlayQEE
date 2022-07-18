@@ -112,6 +112,6 @@ variable "key_name" {
 variable "ssh_key" {
   type        = string
   description = "SSH public key for accessing to EC2 instances"
-  default     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDMRBhZxH2MzjL3OK/u9U2UuebC4sn6SOtBfxwUlVM6RfzRpshnUM7h0mZff+yjt0dZUe7camPMoAqF3CZOV39eU++L/YZOPSmtgLIwkRfEMUiQW1zs4/KHa7p+BsCUrtV1FN3R877iy4EPYgmNLnC4kG+MCuZadUwdF+ffxg9+Ww53Efhkjw/Qqt8IThy0o84RLYo6CKOh9pJR+cxeOvkNhvTZrbkes/IUhR0Lci5nyA+f7lCbp6xTzGO3BtHEOdN86WiFfZbJQOI1MGVmSW6RLVWYxr0ugnucRt6+auZCAbqQDEfJvh7gUkwbGOUoiTiGhW+2jFaa0jL/80d/Y5cuphZbgY3NSnCyW4KxMxDFf/u3Dh6+Zddt4w2pUX/t0oVosBMdGuQl2/4ghkMD1DLGfG0pZhRa/JaOZ1NGmEZtG4urrY9vBP4XgzaMdhmI90Sqgw/EjFj/lAKDPbX8tXlHQwLxJoGJCn82bQ6jtXfKZv5xyCeNdyGtAOgCyAir+H3z4/Kg7p9RTo4D+yNkMoDV8JRXJ9/bLc7QQZM23lubo5ABEDivLpF+mrbl55vBfoEeGGI5HarDtFXQQujXHhZUtVyS4y1HFQrRiepjf++eepuJqnTYyiWX96VJe6CnT/ygATOUw4V1Xr6ysXi+q5DCgRUY+Txndf1pUOmlRfCd5Q== a1@1s-MacBook-Pro.local"
+  default     = ""
 }
 
